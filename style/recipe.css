@@ -22,7 +22,7 @@ body {
   padding: 20px;
 }
 .image img {
-  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   border-radius: 10px;
 }
