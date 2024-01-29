@@ -121,7 +121,9 @@ body {
   padding-right: 26%;
 }
 hr {
-  color: var(--light-grey);
+  background: var(--light-grey);
+  border: none;
+  height: 1px;
 }
 .attribution {
   font-size: 11px;
