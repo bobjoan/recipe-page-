@@ -43,6 +43,7 @@ body {
   background: var(--rose-white);
   padding: 10px;
   border-radius: 10px;
+  margin-bottom: 10px;
 }
 .process h2 {
   font-family: var(--default-font);
@@ -62,11 +63,13 @@ body {
 .ingredients h2 {
   font-family: var(--secondary-font);
   color: var(--nutmeg);
+  margin-bottom: 20px;
 }
 .ingredients ul {
   font-family: var(--default-font);
   color: var(--wenge-brown);
   font-weight: 400;
+  margin-bottom: 30px;
 }
 .ingredients ul li {
   margin-bottom: 10px;
@@ -82,6 +85,7 @@ body {
   font-family: var(--default-font);
   color: var(--wenge-brown);
   font-weight: 400;
+  margin-bottom: 30px;
 }
 .instructions ol li::marker {
   color: var(--nutmeg);
@@ -94,6 +98,7 @@ body {
 .nutrition h2 {
   font-family: var(--secondary-font);
   color: var(--nutmeg);
+  margin-top: 20px;
 }
 .nutrition p {
   font-family: var(--default-font);
