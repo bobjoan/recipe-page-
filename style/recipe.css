@@ -120,6 +120,11 @@ body {
   color: var(--nutmeg);
   padding-right: 26%;
 }
+.num1 {
+  padding-right: 36%;
+  color: var(--nutmeg);
+  font-weight: 700;
+}
 hr {
   background: var(--light-grey);
   border: none;
