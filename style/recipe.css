@@ -121,7 +121,12 @@ body {
   padding-right: 45%;
 }
 .num1 {
-  padding-right: 48%;
+  padding-right: 50%;
+  color: var(--nutmeg);
+  font-weight: 700;
+}
+.num2 {
+  padding-right: 55%;
   color: var(--nutmeg);
   font-weight: 700;
 }
