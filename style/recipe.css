@@ -149,6 +149,7 @@ hr {
     padding: 10px;
   }
   .image img {
+    border-radius: 0;
     width: 100%;
     margin: 0 auto;
   }
