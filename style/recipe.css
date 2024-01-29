@@ -143,3 +143,11 @@ hr {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+@media (max-width: 375px) {
+  .container {
+    width: 30%;
+  }
+  .image img {
+    width: 50%;
+  }
+}
