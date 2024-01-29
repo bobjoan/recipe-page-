@@ -29,7 +29,7 @@ body {
 .herd h1 {
   font-family: var(--secondary-font);
   font-weight: 400;
-  font-size: 28px;
+  font-size: 30px;
   color: var(--dark-charcoal);
 }
 .herd p {
