@@ -118,10 +118,10 @@ body {
 .num {
   font-weight: 700;
   color: var(--nutmeg);
-  padding-right: 26%;
+  padding-right: 35%;
 }
 .num1 {
-  padding-right: 30%;
+  padding-right: 40%;
   color: var(--nutmeg);
   font-weight: 700;
 }
