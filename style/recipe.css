@@ -148,9 +148,11 @@ hr {
     width: 50%;
   }
   .image img {
-    width: 70%;
+    width: 80%;
+    margin: 0 auto;
   }
-  .instructions {
-    text-align: center;
+  .instructions ol li {
+    margin-bottom: 10px;
+    padding-left: 10px;
   }
 }
