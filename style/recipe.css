@@ -1,10 +1,12 @@
 :root {
   --default-white: hsl(0, 0%, 100%);
   --font-color: hsl(332, 51%, 32%);
+  --rose-white: hsl(330, 100%, 98%);
   --body-color: hsl(30, 54%, 90%);
   --light-grey: hsl(30, 18%, 87%);
   --wenge-brown: hsl(30, 10%, 34%);
   --dark-charcoal: hsl(24, 5%, 18%);
+  --nutmeg: hsl(14, 45%, 36%);
   --default-font: "Outfit", sans-serif;
   --secondary-font: "Young Serif", serif;
 }
@@ -12,20 +14,95 @@ body {
   background: var(--body-color);
 }
 .container {
-  width: 400px;
+  width: 500px;
   background: var(--default-white);
   margin: 0 auto;
   border: 1px solid none;
   border-radius: 10px;
+  padding: 20px;
 }
 .image img {
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
-  padding: 20px;
   border-radius: 10px;
 }
 .herd h1 {
-  font-family: ;
+  font-family: var(--secondary-font);
+  font-weight: 400;
+  font-size: 28px;
+  color: var(--dark-charcoal);
+}
+.herd p {
+  font-family: var(--default-font);
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--wenge-brown);
+}
+.process {
+  background: var(--rose-white);
+  padding: 10px;
+  border-radius: 10px;
+}
+.process h2 {
+  font-family: var(--default-font);
+  color: var(--font-color);
+  font-size: 17px;
+}
+.process ul {
+  font-family: var(--default-font);
+  color: var(--wenge-brown);
+}
+.process ul li {
+  margin-bottom: 10px;
+}
+.process ul li::marker {
+  color: var(--nutmeg);
+}
+.ingredients h2 {
+  font-family: var(--secondary-font);
+  color: var(--nutmeg);
+}
+.ingredients ul {
+  font-family: var(--default-font);
+  color: var(--wenge-brown);
+  font-weight: 400;
+}
+.ingredients ul li {
+  margin-bottom: 10px;
+}
+.ingredients ul li::marker {
+  color: var(--nutmeg);
+}
+.instructions h2 {
+  font-family: var(--secondary-font);
+  color: var(--nutmeg);
+}
+.instructions ol {
+  font-family: var(--default-font);
+  color: var(--wenge-brown);
+  font-weight: 400;
+}
+.instructions ol li::marker {
+  color: var(--nutmeg);
+  font-weight: 700;
+}
+.instructions ol li {
+  margin-bottom: 10px;
+  padding-left: 20px;
+}
+.nutrition h2 {
+  font-family: var(--secondary-font);
+  color: var(--nutmeg);
+}
+.nutrition p {
+  font-family: var(--default-font);
+  font-size: 16px;
+  color: var(--wenge-brown);
+}
+.calories {
+  color: var(--wenge-brown);
+  font-family: var(--default-font);
+  display: flex;
 }
 .attribution {
   font-size: 11px;
