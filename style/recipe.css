@@ -150,4 +150,7 @@ hr {
   .image img {
     width: 50%;
   }
+  .instructions {
+    padding: 10px;
+  }
 }
