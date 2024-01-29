@@ -145,12 +145,9 @@ hr {
 }
 @media (max-width: 375px) {
   .container {
-    width: 30%;
+    width: 50%;
   }
   .image img {
     width: 50%;
-  }
-  .instructions {
-    padding: 10px;
   }
 }
