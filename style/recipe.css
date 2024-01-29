@@ -27,8 +27,7 @@ body {
   border-radius: 10px;
 }
 .herd h1 {
-  width: 70%;
-  text-align: center;
+  width: 90%;
   font-family: var(--secondary-font);
   font-weight: 400;
   font-size: 30px;
