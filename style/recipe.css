@@ -14,7 +14,7 @@ body {
   background: var(--body-color);
 }
 .container {
-  width: 60%;
+  width: 50%;
   background: var(--default-white);
   margin: 0 auto;
   border: 1px solid none;
