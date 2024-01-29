@@ -18,7 +18,7 @@ body {
   background: var(--default-white);
   margin: 0 auto;
   border: 1px solid none;
-  border-radius: 10px;
+  border-radius: 20px;
   padding: 20px;
 }
 .image img {
@@ -119,6 +119,9 @@ body {
   font-weight: 700;
   color: var(--nutmeg);
   padding-right: 26%;
+}
+hr {
+  color: var(--light-grey);
 }
 .attribution {
   font-size: 11px;
