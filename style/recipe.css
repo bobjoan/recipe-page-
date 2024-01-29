@@ -1,0 +1,36 @@
+:root {
+  --default-white: hsl(0, 0%, 100%);
+  --font-color: hsl(332, 51%, 32%);
+  --body-color: hsl(30, 54%, 90%);
+  --light-grey: hsl(30, 18%, 87%);
+  --wenge-brown: hsl(30, 10%, 34%);
+  --dark-charcoal: hsl(24, 5%, 18%);
+  --default-font: "Outfit", sans-serif;
+  --secondary-font: "Young Serif", serif;
+}
+body {
+  background: var(--body-color);
+}
+.container {
+  width: 400px;
+  background: var(--default-white);
+  margin: 0 auto;
+  border: 1px solid none;
+  border-radius: 10px;
+}
+.image img {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+.herd h1 {
+  font-family: ;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
