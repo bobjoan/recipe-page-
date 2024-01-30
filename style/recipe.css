@@ -28,8 +28,6 @@ body {
 }
 .image img {
   width: 100%;
-  height: 307px;
-  text-align: center;
   margin: 0 auto;
   border-radius: 10px;
 }
