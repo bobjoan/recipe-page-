@@ -29,23 +29,21 @@ body {
   padding: 15px;
   border-radius: 30px;
 }
-.herd {
-  padding: 20px;
-}
-.herd h1 {
+h1 {
   width: 90%;
+  padding: 10px;
   font-family: var(--secondary-font);
   font-weight: 400;
   font-size: 40px;
   color: var(--dark-charcoal);
-  margin-top: 2rem;
+  line-height: 3rem;
 }
-.herd p {
+p {
   font-family: var(--default-font);
   font-size: 16px;
   font-weight: 400;
   color: var(--wenge-brown);
-  margin-top: 20px;
+  padding: 10px;
 }
 .process {
   background: var(--rose-white);
@@ -182,10 +180,7 @@ hr {
     margin: 0 auto;
     padding: 0;
   }
-  .herd {
-    padding: 30px;
-  }
-  .herd h1 {
+  h1 {
     width: 70%;
     margin: 10px;
   }
