@@ -29,6 +29,7 @@ body {
 .image img {
   width: 669px;
   height: 307px;
+  text-align: center;
   margin: 0 auto;
   border-radius: 10px;
 }
