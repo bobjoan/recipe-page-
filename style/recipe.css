@@ -13,7 +13,6 @@
 body {
   background: var(--body-color);
   display: flex;
-  width: 1440px;
   margin-top: 90px;
 }
 .container {
