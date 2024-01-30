@@ -20,6 +20,7 @@ body {
 }
 .container {
   width: 50%;
+  height: fit-content;
   background: var(--default-white);
   margin: 0 auto;
   border: 1px solid none;
