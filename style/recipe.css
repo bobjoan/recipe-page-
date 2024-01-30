@@ -14,13 +14,12 @@ body {
   background: var(--body-color);
   display: flex;
   min-height: 100vh;
-  margin: 0 auto;
   width: 1440px;
   height: 1955px;
-  margin-top: 80px;
+  margin-top: 90px;
 }
 .container {
-  width: 50%;
+  width: 40%;
   height: fit-content;
   background: var(--default-white);
   margin: 0 auto;
