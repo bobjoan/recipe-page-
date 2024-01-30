@@ -15,7 +15,7 @@ body {
   margin-top: 90px;
 }
 .container {
-  width: 47%;
+  width: 50%;
   background: var(--default-white);
   margin: 0 auto;
   border: 1px solid none;
