@@ -155,26 +155,39 @@ hr {
     width: 100%;
     margin: 0 auto 0 0;
   }
+  .herd {
+    padding: 20px;
+  }
   .herd h1 {
-    width: 70%;
-    display: flex;
-    flex-direction: column;
-    line-height: 1.2;
+    width: 100%;
+    display: block;
+  }
+  .process {
+    padding: 20px;
+  }
+  .ingredients {
+    padding: 20px;
+  }
+  .instructions {
+    padding: 20px;
   }
   .instructions ol li {
     margin-bottom: 10px;
     padding-left: 5px;
   }
+  .nutrition {
+    padding: 20px;
+  }
   .calories {
     padding-left: 10px;
   }
   .num {
-    padding-right: 10px;
+    padding-right: 20%;
   }
   .num1 {
     padding-right: 30%;
   }
   .num2 {
-    padding-right: 35%;
+    padding-right: 34%;
   }
 }
