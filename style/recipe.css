@@ -152,7 +152,7 @@ hr {
   .image img {
     border-radius: 0;
     width: 100%;
-    margin: 0 auto;
+    margin: 0 auto 0 0;
   }
   .herd h1 {
     width: 70%;
