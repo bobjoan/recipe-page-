@@ -12,12 +12,10 @@
 }
 body {
   background: var(--body-color);
-  display: flex;
   margin-top: 90px;
 }
 .container {
   width: 47%;
-  height: 30%;
   background: var(--default-white);
   margin: 0 auto;
   border: 1px solid none;
