@@ -19,9 +19,10 @@ body {
 }
 .container {
   width: 45%;
-  height: fit-content;
+  max-width: 1440px;
+  padding-bottom: 16px;
   background: var(--default-white);
-  margin: 0 auto;
+  margin: 100px auto;
   border: 1px solid none;
   border-radius: 20px;
   padding: 20px;
