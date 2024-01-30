@@ -14,9 +14,10 @@ body {
   background: var(--body-color);
   display: flex;
   width: 1440px;
+  margin-top: 90px;
 }
 .container {
-  width: 50%;
+  width: 47%;
   background: var(--default-white);
   margin: 0 auto;
   border: 1px solid none;
@@ -24,11 +25,11 @@ body {
   padding: 20px;
 }
 .omelette img {
-  width: 100%;
+  width: 95%;
   height: auto;
   margin: 0 auto;
-  padding: 10px;
-  border-radius: 20px;
+  padding: 15px;
+  border-radius: 30px;
 }
 .herd h1 {
   width: 90%;
