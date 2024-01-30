@@ -166,7 +166,7 @@ hr {
 }
 @media (max-width: 375px) {
   .container {
-    width: 100%;
+    width: 90%;
     padding: 20px;
     margin: 0 auto;
     border-radius: 0;
