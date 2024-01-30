@@ -14,22 +14,20 @@ body {
   background: var(--body-color);
   display: flex;
   width: 1440px;
-  height: 1955px;
 }
 .container {
   width: 50%;
-  padding-bottom: 16px;
   background: var(--default-white);
   margin: 0 auto;
   border: 1px solid none;
   border-radius: 20px;
   padding: 20px;
 }
-.image img {
-  max-width: 90%;
+.omelette img {
+  width: 95%;
   margin: 0 auto;
-  padding: 45px;
-  border-radius: 30px;
+  padding: 20px;
+  border-radius: 20px;
 }
 .herd h1 {
   width: 90%;
