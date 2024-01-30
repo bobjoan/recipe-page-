@@ -167,11 +167,10 @@ hr {
     margin-top: 0;
   }
   .container {
-    width: 50%;
+    width: 47%;
     background: var(--default-white);
     margin: 0 auto;
     border: 1px solid none;
-    border-radius: 20px;
     padding: 20px;
   }
   h2 {
