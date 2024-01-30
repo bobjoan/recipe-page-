@@ -12,6 +12,11 @@
 }
 body {
   background: var(--body-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: 1955px;
 }
 .container {
   width: 50%;
@@ -162,8 +167,8 @@ hr {
     padding: 20px;
   }
   .herd h1 {
-    width: 100%;
-    display: block;
+    width: 70%;
+    margin: 10px;
   }
   .process {
     padding: 10px;
