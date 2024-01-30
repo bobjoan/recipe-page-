@@ -31,6 +31,9 @@ body {
   padding: 15px;
   border-radius: 30px;
 }
+.herd {
+  padding: 20px;
+}
 .herd h1 {
   width: 90%;
   font-family: var(--secondary-font);
@@ -43,12 +46,15 @@ body {
   font-size: 16px;
   font-weight: 400;
   color: var(--wenge-brown);
+  margin-top: 20px;
 }
 .process {
   background: var(--rose-white);
   padding: 10px;
   border-radius: 10px;
-  margin-bottom: 10px;
+  margin-top: 35px;
+  width: 90%;
+  margin: 0 auto;
 }
 .process h2 {
   font-family: var(--default-font);
@@ -64,6 +70,9 @@ body {
 }
 .process ul li::marker {
   color: var(--nutmeg);
+}
+.ingredients {
+  padding: 20px;
 }
 .ingredients h2 {
   font-family: var(--secondary-font);
@@ -82,6 +91,9 @@ body {
 .ingredients ul li::marker {
   color: var(--nutmeg);
 }
+.instructions {
+  padding: 20px;
+}
 .instructions h2 {
   font-family: var(--secondary-font);
   color: var(--nutmeg);
@@ -99,6 +111,9 @@ body {
 .instructions ol li {
   margin-bottom: 10px;
   padding-left: 20px;
+}
+.nutrition {
+  padding: 20px;
 }
 .nutrition h2 {
   font-family: var(--secondary-font);
