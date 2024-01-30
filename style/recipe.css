@@ -177,7 +177,7 @@ hr {
   .omelette img {
     border-radius: 0;
     width: 100%;
-    margin: 0 auto 0 0;
+    margin: 0 auto;
   }
   .herd {
     padding: 20px;
@@ -188,7 +188,7 @@ hr {
   }
   .process {
     padding: 10px;
-    width: 70%;
+    width: 90%;
     margin: 0 auto;
   }
   .process h2 {
