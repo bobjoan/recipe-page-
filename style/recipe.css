@@ -29,9 +29,11 @@ body {
   padding: 15px;
   border-radius: 30px;
 }
-h1 {
+.herd {
+  padding: 20px;
+}
+.herd h1 {
   width: 90%;
-  padding: 10px;
   font-family: var(--secondary-font);
   font-weight: 400;
   font-size: 40px;
@@ -43,7 +45,6 @@ p {
   font-size: 16px;
   font-weight: 400;
   color: var(--wenge-brown);
-  padding: 10px;
 }
 .process {
   background: var(--rose-white);
@@ -180,7 +181,7 @@ hr {
     margin: 0 auto;
     padding: 0;
   }
-  h1 {
+  .herd h1 {
     width: 70%;
     margin: 10px;
   }
