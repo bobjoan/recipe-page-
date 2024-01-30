@@ -18,6 +18,7 @@ body {
 }
 .container {
   width: 47%;
+  height: 30%;
   background: var(--default-white);
   margin: 0 auto;
   border: 1px solid none;
