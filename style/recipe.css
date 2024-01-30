@@ -147,7 +147,7 @@ hr {
   .container {
     width: 100%;
     padding: 10px;
-    border-radius: none;
+    border-radius: 0;
   }
   .image img {
     border-radius: 0;
